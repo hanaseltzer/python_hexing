@@ -1,12 +1,12 @@
 # python_hexing
 
-#usage:
+usage:
 
 #randomcolor moudle:
 
 	randclr()   - generates a random hexadecimal number.
 
-#hexMath module:
+hexMath module:
 
 	randhex(n)   - generates a random n digit, hexadecimal number.
 
