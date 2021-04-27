@@ -2,7 +2,7 @@
 
 usage:
 
-#randomcolor moudle:
+randomcolor moudle:
 
 	randclr()   - generates a random hexadecimal number.
 
